@@ -89,6 +89,8 @@ if(skip){
       
       # tf <- outcome[1]
       # the_cntry <- outcome[2]
+      # tf <- "7"
+      # the_cntry <- "NO"
       # 
       # print(outcome)
       # 
